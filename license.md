@@ -5,6 +5,11 @@ You are authorized to use Plugin in accordance with the usage notes available at
 # You are not permitted to
 Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things.
 Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose Allow any third party to use the Software on behalf of or for the benefit of any third party. Use the Software in any way which breaches any applicable local, national or international law. Use the Software for any purpose that graceful.code.design (graceful.code.design@gmail.com) considers is a breach of this EULA agreement.
+
+# Duration of License.
+Time-limited for the duration of your subscription period, in case of Paid Plugins for which You pay an annual or monthly subscription fee. <br><br>
+The license is free and renewable for one day in case of plugin that is offered at no cost, as long as the latest version of the plugin is also free. However, if the latest version of the plugin is paid and an old version is free, the license can not be renewed, and it is not allowed to use the old version.<br>
+
 # Intellectual Property and Ownership
 graceful.code.design (graceful.code.design@gmail.com) shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of graceful.code.design (graceful.code.design@gmail.com).<br><br>
 graceful.code.design (graceful.code.design@gmail.com) shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of graceful.code.design (graceful.code.design@gmail.com).<br><br>
